@@ -46,6 +46,7 @@ class SimplePackageManager {
         try {
           json.packages[repo._vendor + '/' + repo._repo][release] = JSON.parse(await repo.checkout(release).getFile('composer.json'));
           json.packages[repo._vendor + '/' + repo._repo][release].dist = repo.getDist();
+          json.packages[repo._vendor + '/' + repo._repo][release].version = repo._version;
         } catch (e) {
           console.log(e);
         }
