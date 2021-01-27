@@ -39,14 +39,16 @@ class SimplePackageManager {
 
     for (const repo of this._repos) {
       console.log('GENERATE: ' + repo.name);
-      json.packages[repo._vendor + '/' + repo._repo] = {};
       const releases = await repo.getReleases();
 
       for (const release of releases) {
         try {
-          json.packages[repo._vendor + '/' + repo._repo][release] = JSON.parse(await repo.checkout(release).getFile('composer.json'));
-          json.packages[repo._vendor + '/' + repo._repo][release].dist = repo.getDist();
-          json.packages[repo._vendor + '/' + repo._repo][release].version = repo._version;
+          const data = JSON.parse(await repo.checkout(release).getFile('composer.json'));
+
+          json.packages[data.name] = json.packages[data.name] || {};
+          json.packages[data.name][release] = data;
+          json.packages[data.name][release].dist = repo.getDist();
+          json.packages[data.name][release].version = repo._version;
         } catch (e) {
           console.log(e);
         }

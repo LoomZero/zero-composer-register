@@ -1,6 +1,6 @@
 {
   "packages": {
-    "LoomZero/zero_entitywrapper": {
+    "loomzero/zero_entitywrapper": {
       "0.0.2": {
         "name": "loomzero/zero_entitywrapper",
         "type": "drupal-module",
