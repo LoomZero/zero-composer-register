@@ -6,7 +6,7 @@ Add this to your `repositories` in `composer.json`
 
 ```json
 {
-    "type": "git",
+    "type": "composer",
     "url": "https://raw.githubusercontent.com/LoomZero/zero-composer-register/master/"
 }
 ```
