@@ -1,5 +1,6 @@
 {
   "LoomZero": [
-    "zero_entitywrapper"
+    "zero_entitywrapper",
+    "zero_preprocess"
   ]
 }
