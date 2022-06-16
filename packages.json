@@ -1,6 +1,31 @@
 {
   "packages": {
     "loomzero/zero_entitywrapper": {
+      "0.10.0": {
+        "name": "loomzero/zero_entitywrapper",
+        "type": "drupal-module",
+        "description": "Base EntityWrapper module",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
+          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+        },
+        "require": {
+          "composer/installers": "~1.0",
+          "loomzero/zero_preprocess": "~0.3",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.10.0.zip"
+        },
+        "version": "0.10.0"
+      },
       "0.9.6": {
         "name": "loomzero/zero_entitywrapper",
         "type": "drupal-module",
@@ -632,27 +657,6 @@
           "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.1.0.zip"
         },
         "version": "0.1.0"
-      },
-      "0.0.4": {
-        "name": "loomzero/zero_entitywrapper",
-        "type": "drupal-module",
-        "description": "Base EntityWrapper module",
-        "keywords": [
-          "Drupal"
-        ],
-        "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
-        "minimum-stability": "dev",
-        "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
-          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
-        },
-        "require": {},
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.0.4.zip"
-        },
-        "version": "0.0.4"
       }
     },
     "loomzero/zero_preprocess": {
