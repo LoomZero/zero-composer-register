@@ -71,8 +71,8 @@ class SimplePackageManager {
     for (const vendor in vendors) {
       lines.push('## ' + vendor);
       lines.push('');
-      for (const repo of vendors[repo._vendor]) {
-        lines.push('- [' + repo._repo + '](https://github.com/' + this._vendor + '/' + this._repo + ')');
+      for (const repo of vendors[vendor]) {
+        lines.push('- [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ')');
       }
       lines.push('');
     }
