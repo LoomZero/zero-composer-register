@@ -144,17 +144,21 @@ class Repo {
 
 (async function() {
 
-  const manager = new SimplePackageManager();
+  try { 
+    const manager = new SimplePackageManager();
 
-  for (const vendor in data) {
-    for (const repo of data[vendor]) {
-      manager.addRepo(new Repo(manager, vendor, repo));
+    for (const vendor in data) {
+      for (const repo of data[vendor]) {
+        manager.addRepo(new Repo(manager, vendor, repo));
+      }
     }
-  }
 
-  // const json = await manager.generatePackageJson();
-  // FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
-  const register = manager.generatePackageRegisterMD();
-  FS.writeFileSync('./register.md', register);
+    // const json = await manager.generatePackageJson();
+    // FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
+    const register = manager.generatePackageRegisterMD();
+    FS.writeFileSync('./register.md', register); 
+  } catch (e) {
+    console.error(e);
+  }
 
 })();
