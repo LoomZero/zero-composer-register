@@ -74,12 +74,13 @@ class SimplePackageManager {
       for (const repo of vendors[vendor]) {
         const releases = await repo.getReleases(true);
         
-        lines.push('- Repository: [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
-        console.log(releases);
+        lines.push('### [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
         lines.push('<details><summary>Releases</summary>');
+        lines.push('');
         for (const release in releases) {
-          lines.push('  - [' + releases[release].name + '](' + releases[release].html_url + ')');
+          lines.push('- [' + releases[release].name + '](' + releases[release].html_url + ')');
         }
+        lines.push('');
         lines.push('</details>');
       }
       lines.push('');
