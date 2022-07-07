@@ -72,9 +72,9 @@ class SimplePackageManager {
       lines.push('## ' + vendor);
       lines.push('');
       for (const repo of vendors[vendor]) {
-        const releases = await repo.getReleases();
+        const releases = await repo.getReleases(TRUE);
         
-        lines.push('- [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') : ' + releases[0]);
+        lines.push('- [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') : ' + releases[0].name);
       }
       lines.push('');
     }
@@ -114,19 +114,20 @@ class Repo {
     };
   }
 
-  async getReleases() {
-    if (this._cache['getReleases'] === undefined) {
+  async getReleases(allData = false) {
+    const cid = allData ? 'getReleases-AllData' : 'getReleases';
+    if (this._cache[cid] === undefined) {
       const releases = [];
       const url = new URL('/repos/' + this._vendor + '/' + this._repo + '/releases', 'https://api.github.com/');
       console.log('REQUEST: ' + url);
       const releasesData = JSON.parse(await this.manager.request(url, {headers: {'User-Agent': 'Awesome-Octocat-App'}}));
+      this._cache['getReleases-AllData'] = releasesData;
       for (const release of releasesData) {
-        console.log(release);
-        releases.push(release.tag_name);
+        releases.push(release);
       }
       this._cache['getReleases'] = releases;
     }
-    return this._cache['getReleases'];
+    return this._cache[cid];
   }
 
   async getFile(path) {
