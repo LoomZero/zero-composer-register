@@ -57,7 +57,7 @@ class SimplePackageManager {
     return json;
   }
 
-  generatePackageRegisterMD() {
+  async generatePackageRegisterMD() {
     const lines = [
       '# Register',
       '',
@@ -72,6 +72,8 @@ class SimplePackageManager {
       lines.push('## ' + vendor);
       lines.push('');
       for (const repo of vendors[vendor]) {
+        const releases = await repo.getReleases();
+        console.log(releases);
         lines.push('- [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ')');
       }
       lines.push('');
@@ -150,8 +152,8 @@ class Repo {
     }
   }
 
-  const json = await manager.generatePackageJson();
-  FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
+  // const json = await manager.generatePackageJson();
+  // FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
   const register = manager.generatePackageRegisterMD();
   FS.writeFileSync('./register.md', register);
 
