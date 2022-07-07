@@ -121,6 +121,7 @@ class Repo {
       console.log('REQUEST: ' + url);
       const releasesData = JSON.parse(await this.manager.request(url, {headers: {'User-Agent': 'Awesome-Octocat-App'}}));
       for (const release of releasesData) {
+        console.log(release);
         releases.push(release.tag_name);
       }
       this._cache['getReleases'] = releases;
