@@ -1,4 +1,8 @@
-# zero-composer-register
+TOC
+--- 
+
+- [1. - Use](#1---use)
+- [2. - Update](#2---update)
 
 # 1. - Use
 
@@ -17,7 +21,7 @@ Now you can install all repo`s in vendor.json eg.
 composer require loomzero/zero_preprocess
 ```
 
-# 2. Update
+# 2. - Update
 
 ```bash
 git clone https://github.com/LoomZero/zero-composer-register.git
