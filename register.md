@@ -37,6 +37,7 @@
 - [version 0.2.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.1)
 
 </details>
+
 ### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.4.0
 <details><summary>Releases</summary>
 
@@ -48,6 +49,7 @@
 - [version 0.0.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.1)
 
 </details>
+
 ### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
 <details><summary>Releases</summary>
 
@@ -55,3 +57,4 @@
 - [version 0.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.0)
 
 </details>
+

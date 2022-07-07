@@ -82,6 +82,7 @@ class SimplePackageManager {
         }
         lines.push('');
         lines.push('</details>');
+        lines.push('');
       }
       lines.push('');
     }
