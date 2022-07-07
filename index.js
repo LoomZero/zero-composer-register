@@ -123,7 +123,7 @@ class Repo {
       const releasesData = JSON.parse(await this.manager.request(url, {headers: {'User-Agent': 'Awesome-Octocat-App'}}));
       this._cache['getReleases-AllData'] = releasesData;
       for (const release of releasesData) {
-        releases.push(release);
+        releases.push(release.tag_name);
       }
       this._cache['getReleases'] = releases;
     }
