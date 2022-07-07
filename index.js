@@ -57,6 +57,28 @@ class SimplePackageManager {
     return json;
   }
 
+  generatePackageRegisterMD() {
+    const lines = [
+      '# Register',
+      '',
+    ];
+    const vendors = {};
+
+    for (const repo of this._repos) {
+      vendors[repo._vendor] = vendors[repo._vendor] || [];
+      vendors[repo._vendor].push(repo);
+    }
+    for (const vendor in vendors) {
+      lines.push('## ' + vendor);
+      lines.push('');
+      for (const repo of vendors[repo._vendor]) {
+        lines.push('- [' + repo._repo + '](https://github.com/' + this._vendor + '/' + this._repo + ')');
+      }
+      lines.push('');
+    }
+    return lines.join('\n');
+  }
+
 };
 
 class Repo {
@@ -130,5 +152,7 @@ class Repo {
 
   const json = await manager.generatePackageJson();
   FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
+  const register = manager.generatePackageRegisterMD();
+  FS.writeFileSync('./register.md', register);
 
 })();
