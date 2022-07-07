@@ -76,9 +76,11 @@ class SimplePackageManager {
         
         lines.push('- Repository: [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
         console.log(releases);
+        lines.push('<details><summary>Releases</summary>');
         for (const release in releases) {
           lines.push('  - [' + releases[release].name + '](' + releases[release].html_url + ')');
         }
+        lines.push('</details>');
       }
       lines.push('');
     }

@@ -3,6 +3,7 @@
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
 - Repository: [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | 0.11.3
+<details><summary>Releases</summary>
   - [version 0.11.3 - Update ViewWrapper include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.3)
   - [version 0.11.2 - ViewWrapper parameter $display bug](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.2)
   - [version 0.11.1 - patch ignore access for entity and author](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.1)
@@ -33,13 +34,18 @@
   - [version 0.2.3](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.3)
   - [version 0.2.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.2)
   - [version 0.2.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.1)
+</details>
 - Repository: [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.4.0
+<details><summary>Releases</summary>
   - [version 0.4.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.4.0)
   - [version 0.3.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.3.0)
   - [version 0.2.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.2.0)
   - [version 0.1.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.1.2)
   - [version 0.0.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.2)
   - [version 0.0.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.1)
+</details>
 - Repository: [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
+<details><summary>Releases</summary>
   - [version 0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
   - [version 0.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.0)
+</details>
