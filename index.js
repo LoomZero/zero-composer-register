@@ -75,7 +75,7 @@ class SimplePackageManager {
         const releases = await repo.getReleases(true);
         
         lines.push('### [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
-        lines.push('<details><summary>Releases</summary>');
+        lines.push('<details><summary>Releases for ' + repo._repo + '</summary>');
         lines.push('');
         for (const release in releases) {
           lines.push('- [' + releases[release].name + '](' + releases[release].html_url + ')');
