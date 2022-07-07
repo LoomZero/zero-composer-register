@@ -2,6 +2,7 @@ TOC
 
 - [1. - Use](#1---use)
 - [2. - Update](#2---update)
+- [3. - List of modules](#3---list-of-modules)
 
 # 1. - Use
 
@@ -30,3 +31,7 @@ Update the vendor.json
 
 ./update.sh # The script will automatically pull all releases and insert it into packages.json and push it
 ```
+
+# 3. - List of modules
+
+https://github.com/LoomZero/zero-composer-register/blob/master/register.md
