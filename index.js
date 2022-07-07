@@ -75,6 +75,7 @@ class SimplePackageManager {
         const releases = await repo.getReleases(true);
         
         lines.push('- Repository: [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
+        console.log(releases);
         for (const release in releases) {
           lines.push('  - ' + releases[release].name);
         }
@@ -158,8 +159,8 @@ class Repo {
       }
     }
 
-    const json = await manager.generatePackageJson();
-    FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
+    // const json = await manager.generatePackageJson();
+    // FS.writeFileSync('./packages.json', JSON.stringify(json, null, 2));
     const register = await manager.generatePackageRegisterMD();
     FS.writeFileSync('./register.md', register); 
   } catch (e) {
