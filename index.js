@@ -72,7 +72,7 @@ class SimplePackageManager {
       lines.push('## ' + vendor);
       lines.push('');
       for (const repo of vendors[vendor]) {
-        const releases = await repo.getReleases(TRUE);
+        const releases = await repo.getReleases(true);
         
         lines.push('- [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') : ' + releases[0].name);
       }
