@@ -3,7 +3,7 @@
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
 ### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | 0.11.3
-<details><summary>Releases</summary>
+<details><summary>Releases for zero_entitywrapper</summary>
 
 - [version 0.11.3 - Update ViewWrapper include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.3)
 - [version 0.11.2 - ViewWrapper parameter $display bug](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.2)
@@ -38,9 +38,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.4.0
-<details><summary>Releases</summary>
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.5.0
+<details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.5.0 - Update ZeroComponent.js](https://github.com/LoomZero/zero_preprocess/releases/tag/0.5.0)
 - [version 0.4.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.4.0)
 - [version 0.3.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.3.0)
 - [version 0.2.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.2.0)
@@ -51,7 +52,7 @@
 </details>
 
 ### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
-<details><summary>Releases</summary>
+<details><summary>Releases for zero_ajax_api</summary>
 
 - [version 0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
 - [version 0.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.0)
