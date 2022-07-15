@@ -59,3 +59,13 @@
 
 </details>
 
+
+## Vendor: [loominade](https://github.com/loominade?tab=repositories)
+
+### [loominade_styleguide](https://github.com/loominade/loominade_styleguide) | 0.1.0
+<details><summary>Releases for loominade_styleguide</summary>
+
+- [Here we go](https://github.com/loominade/loominade_styleguide/releases/tag/0.1.0)
+
+</details>
+

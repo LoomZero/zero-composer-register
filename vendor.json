@@ -3,5 +3,8 @@
     "zero_entitywrapper",
     "zero_preprocess",
     "zero_ajax_api"
+  ],
+  "loominade": [
+    "loominade_styleguide"
   ]
 }
