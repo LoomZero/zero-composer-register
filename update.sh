@@ -22,12 +22,6 @@ if [[ $? != 0 ]]; then
       exit;
     fi;
     if [[ $input == 'c' ]]; then
-      git merge-base --is-ancestor master origin/master
-      if [[ $? == 0 ]]; then
-        echo '0'
-      else
-        echo '1'
-      fi
       check=$(git ls-files -u)
       if [[ -n $check ]]; then
         echo "${RED}There are still merge conflicts, please resolve, add and commit! Then press 'c'.${RESET}";
