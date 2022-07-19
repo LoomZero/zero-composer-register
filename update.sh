@@ -26,8 +26,6 @@ if [[ $? != 0 ]]; then
   done
 fi
 
-exit;
-
 node ./index.js
 git add -A
 git commit -m"update"
