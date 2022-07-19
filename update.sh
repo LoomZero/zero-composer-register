@@ -42,7 +42,11 @@ if [[ $? != 0 ]]; then
   git merge;
 fi
 
+echo "${CYAN}Execute update script ...${RESET}";
+
 node ./index.js
+
+echo "${CYAN}Add updates and  ...${RESET}";
 
 git add -A
 git commit -m"update"
