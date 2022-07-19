@@ -10,19 +10,6 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.5.0
-<details><summary>Releases for zero_preprocess</summary>
-
-- [version 0.5.0 - Update ZeroComponent.js](https://github.com/LoomZero/zero_preprocess/releases/tag/0.5.0)
-- [version 0.4.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.4.0)
-- [version 0.3.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.3.0)
-- [version 0.2.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.2.0)
-- [version 0.1.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.1.2)
-- [version 0.0.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.2)
-- [version 0.0.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.1)
-
-</details>
-
 ### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | 0.11.4
 <details><summary>Releases for zero_entitywrapper</summary>
 
@@ -56,6 +43,19 @@
 - [version 0.2.4](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.4)
 - [version 0.2.3](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.3)
 - [version 0.2.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.2)
+
+</details>
+
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.5.0
+<details><summary>Releases for zero_preprocess</summary>
+
+- [version 0.5.0 - Update ZeroComponent.js](https://github.com/LoomZero/zero_preprocess/releases/tag/0.5.0)
+- [version 0.4.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.4.0)
+- [version 0.3.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.3.0)
+- [version 0.2.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.2.0)
+- [version 0.1.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.1.2)
+- [version 0.0.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.2)
+- [version 0.0.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.1)
 
 </details>
 
