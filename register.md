@@ -2,6 +2,14 @@
 
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
+### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
+<details><summary>Releases for zero_ajax_api</summary>
+
+- [version 0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
+- [version 0.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.0)
+
+</details>
+
 ### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | 0.11.4
 <details><summary>Releases for zero_entitywrapper</summary>
 
@@ -48,14 +56,6 @@
 - [version 0.1.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.1.2)
 - [version 0.0.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.2)
 - [version 0.0.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.0.1)
-
-</details>
-
-### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
-<details><summary>Releases for zero_ajax_api</summary>
-
-- [version 0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
-- [version 0.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.0)
 
 </details>
 

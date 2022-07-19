@@ -1,5 +1,54 @@
 {
   "packages": {
+    "loomzero/zero_ajax_api": {
+      "0.1.1": {
+        "name": "loomzero/zero_ajax_api",
+        "type": "drupal-module",
+        "description": "Add preprocess file loading functionality",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_ajax_api",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_ajax_api",
+          "source": "http://cgit.drupalcode.org/zero_ajax_api"
+        },
+        "require": {
+          "composer/installers": "~1.0",
+          "loomzero/zero_preprocess": "~0.3"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_ajax_api/archive/master.zip"
+        },
+        "version": "0.1.1"
+      },
+      "0.1.0": {
+        "name": "loomzero/zero_ajax_api",
+        "type": "drupal-module",
+        "description": "Add preprocess file loading functionality",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_ajax_api",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_ajax_api",
+          "source": "http://cgit.drupalcode.org/zero_ajax_api"
+        },
+        "require": {
+          "composer/installers": "~1.0"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_ajax_api/archive/master.zip"
+        },
+        "version": "0.1.0"
+      }
+    },
     "loomzero/zero_entitywrapper": {
       "0.11.4": {
         "name": "loomzero/zero_entitywrapper",
@@ -840,55 +889,6 @@
           "url": "https://github.com/LoomZero/zero_preprocess/archive/master.zip"
         },
         "version": "0.0.1"
-      }
-    },
-    "loomzero/zero_ajax_api": {
-      "0.1.1": {
-        "name": "loomzero/zero_ajax_api",
-        "type": "drupal-module",
-        "description": "Add preprocess file loading functionality",
-        "keywords": [
-          "Drupal"
-        ],
-        "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_ajax_api",
-        "minimum-stability": "dev",
-        "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_ajax_api",
-          "source": "http://cgit.drupalcode.org/zero_ajax_api"
-        },
-        "require": {
-          "composer/installers": "~1.0",
-          "loomzero/zero_preprocess": "~0.3"
-        },
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/LoomZero/zero_ajax_api/archive/master.zip"
-        },
-        "version": "0.1.1"
-      },
-      "0.1.0": {
-        "name": "loomzero/zero_ajax_api",
-        "type": "drupal-module",
-        "description": "Add preprocess file loading functionality",
-        "keywords": [
-          "Drupal"
-        ],
-        "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_ajax_api",
-        "minimum-stability": "dev",
-        "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_ajax_api",
-          "source": "http://cgit.drupalcode.org/zero_ajax_api"
-        },
-        "require": {
-          "composer/installers": "~1.0"
-        },
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/LoomZero/zero_ajax_api/archive/master.zip"
-        },
-        "version": "0.1.0"
       }
     },
     "loominade/loominade_styleguide": {
