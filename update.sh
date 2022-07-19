@@ -46,7 +46,7 @@ echo "${CYAN}Execute update script ...${RESET}";
 
 node ./index.js
 
-echo "${CYAN}Add updates and  ...${RESET}";
+echo "${CYAN}Add updates and push them ...${RESET}";
 
 git add -A
 git commit -m"update"
