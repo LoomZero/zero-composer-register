@@ -1,11 +1,13 @@
 #!/bin/sh
 
+RED='\033[0;31m';
+RESET='\033[0m';
+
 git fetch
 git merge
 
 if [[ $? != 0 ]]; then
-  git ls-files -u;
-  echo "There are merge conflicts, please resolve them and press 'c'.";
+  echo "${RED}There are merge conflicts, please resolve them and press 'c'.${RESET}";
   
   echo "Press 'c' to continue or 'e' for exit ... "
   while [[ $input != 'c' ]]
@@ -18,11 +20,13 @@ if [[ $? != 0 ]]; then
     fi;
     check=$(git ls-files -u)
     if [[ -n $check ]]; then
-      echo "There are still merge conflicts, please resolve, add and commit!";
+      echo "${RED}There are still merge conflicts, please resolve, add and commit! Then press 'c'.${RESET}";
       input="g";
     fi
   done
 fi
+
+exit;
 
 node ./index.js
 git add -A
