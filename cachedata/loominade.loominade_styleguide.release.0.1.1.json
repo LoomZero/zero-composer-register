@@ -1,0 +1,21 @@
+{
+  "hash": "ea11d846cc58334ecae42998c6ecae4b",
+  "data": {
+    "name": "loominade/loominade_styleguide",
+    "type": "drupal-module",
+    "description": "Loominfy your styleguide",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://github.com/loominade/loominade_styleguide",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://github.com/loominade/loominade_styleguide/issues",
+      "source": "https://github.com/loominade/loominade_styleguide"
+    },
+    "require": {
+      "composer/installers": "~1.0"
+    }
+  }
+}

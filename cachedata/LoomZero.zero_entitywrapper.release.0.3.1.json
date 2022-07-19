@@ -1,0 +1,19 @@
+{
+  "hash": "46de1b5efbefa595ad6e009f58eff0dc",
+  "data": {
+    "name": "loomzero/zero_entitywrapper",
+    "type": "drupal-module",
+    "description": "Base EntityWrapper module",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
+      "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+    },
+    "require": {}
+  }
+}
