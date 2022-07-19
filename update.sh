@@ -1,13 +1,19 @@
 #!/bin/sh
 
 RED='\033[0;31m';
+CYAN='\033[0;36m';
 RESET='\033[0m';
+
+echo "${CYAN}Start update ...${RESET}";
 
 check=$(git ls-files -u)
 if [[ -z $check ]]; then
+  echo "${CYAN}Update local git ...${RESET}";
   git add -A
   git commit -m"local update"
 fi
+
+echo "${CYAN}Update remote git ...${RESET}";
 
 git fetch
 git merge
@@ -32,11 +38,12 @@ if [[ $? != 0 ]]; then
       fi
     fi
   done
-  
+
   git merge;
 fi
-exit;
+
 node ./index.js
+
 git add -A
 git commit -m"update"
 git push
