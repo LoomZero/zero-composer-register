@@ -3,8 +3,11 @@
 RED='\033[0;31m';
 RESET='\033[0m';
 
-git add -A
-git commit -m"local update"
+check=$(git ls-files -u)
+if [[ -z $check ]]; then
+  git add -A
+  git commit -m"local update"
+fi
 
 git fetch
 git merge
@@ -29,6 +32,8 @@ if [[ $? != 0 ]]; then
       fi
     fi
   done
+  
+  git merge;
 fi
 exit;
 node ./index.js
