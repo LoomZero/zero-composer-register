@@ -27,7 +27,7 @@
 - [version 0.9.1 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.1)
 - [version 0.9.0 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.0)
 - [version 0.8.0 - Advanced access handling and config](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.8.0)
-- [0.7.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.7.0)
+- [version 0.7.0 - add Author handling](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.7.0)
 - [version 0.6.0 - Add file handle support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.6.0)
 - [version 0.5.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.5.0)
 - [version 0.4.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.4.0)
