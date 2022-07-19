@@ -56,8 +56,11 @@ module.exports = class SimplePackageManager {
           const version = release.tag_name;
           const cache_id = repo._vendor + '.' + repo._repo + '.release.' + version;
           let data = this.cm.get(cache_id, release);
+
+          repo.checkout(version);
+
           if (!data) {
-            data = JSON.parse(await repo.checkout(version).getFile('composer.json'));
+            data = JSON.parse(await repo.getFile('composer.json'));
             this.cm.set(cache_id, release, data);
           }
 
