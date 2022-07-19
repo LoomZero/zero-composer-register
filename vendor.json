@@ -1,11 +1,7 @@
 {
   "LoomZero": [
-    "zero_preprocess",
     "zero_ajax_api",
-<<<<<<< HEAD
-=======
     "zero_preprocess",
->>>>>>> refs/remotes/origin/master
     "zero_entitywrapper"
   ],
   "loominade": [
