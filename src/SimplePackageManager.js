@@ -93,7 +93,7 @@ module.exports = class SimplePackageManager {
       for (const repo of vendors[vendor]) {
         const releases = await repo.getReleases(true);
         
-        lines.push('### [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | ' + releases[0].tag_name);
+        lines.push('### [' + repo._repo + '](https://github.com/' + vendor + '/' + repo._repo + ') | [' + releases[0].tag_name + '](' + releases[0].html_url + ')');
         lines.push('<details><summary>Releases for ' + repo._repo + '</summary>');
         lines.push('');
         for (const release in releases) {
