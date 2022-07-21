@@ -2,7 +2,7 @@
 
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
-### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | 0.1.1
+### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | [0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
 <details><summary>Releases for zero_ajax_api</summary>
 
 - [version 0.1.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.1.1)
@@ -10,7 +10,7 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | 0.11.4
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.11.4](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.4)
 <details><summary>Releases for zero_entitywrapper</summary>
 
 - [version 0.11.4 - Auto extends trigger error when no extends preprocess](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.4)
@@ -46,7 +46,7 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | 0.6.0
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.6.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.0)
 <details><summary>Releases for zero_preprocess</summary>
 
 - [version 0.6.0 - add js cookies support for components](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.0)
@@ -63,7 +63,7 @@
 
 ## Vendor: [loominade](https://github.com/loominade?tab=repositories)
 
-### [loominade_styleguide](https://github.com/loominade/loominade_styleguide) | 0.1.1
+### [loominade_styleguide](https://github.com/loominade/loominade_styleguide) | [0.1.1](https://github.com/loominade/loominade_styleguide/releases/tag/0.1.1)
 <details><summary>Releases for loominade_styleguide</summary>
 
 - [Here we go again](https://github.com/loominade/loominade_styleguide/releases/tag/0.1.1)
