@@ -47,9 +47,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.6.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.0)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.6.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.1)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.6.1 - Attach function can not use the context](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.1)
 - [version 0.6.0 - add js cookies support for components](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.0)
 - [version 0.5.0 - Update ZeroComponent.js](https://github.com/LoomZero/zero_preprocess/releases/tag/0.5.0)
 - [version 0.4.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.4.0)
