@@ -12,9 +12,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.12.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.12.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.12.1 - Allow empty fields for media & medias](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.1)
 - [version 0.12.0 - Add intern media template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.0)
 - [version 0.11.6 - ViewWrapper::getResultMeta() division by zero](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.6)
 - [version 0.11.5 - Fix undefined $wrapper in auto include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.5)
@@ -44,7 +45,6 @@
 - [version 0.3.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.0)
 - [version 0.2.7](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.7)
 - [version 0.2.6](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.6)
-- [version 0.2.5](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.5)
 
 </details>
 
