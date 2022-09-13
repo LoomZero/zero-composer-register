@@ -1,0 +1,22 @@
+{
+  "hash": "786d3f30b8bc6f68c1524e309d53c2be",
+  "data": {
+    "name": "loomzero/zero_ajax_api",
+    "type": "drupal-module",
+    "description": "Add preprocess file loading functionality",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_ajax_api",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_ajax_api",
+      "source": "http://cgit.drupalcode.org/zero_ajax_api"
+    },
+    "require": {
+      "composer/installers": "~1.0",
+      "loomzero/zero_preprocess": "~0.3"
+    }
+  }
+}
