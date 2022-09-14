@@ -14,9 +14,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.13.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.13.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.13.1 - Update RenderItemWrapper and deprecation log](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.1)
 - [version 0.13.0 - add collection item wrapper functions](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.0)
 - [version 0.12.1 - Allow empty fields for media & medias](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.1)
 - [version 0.12.0 - Add intern media template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.0)
@@ -46,7 +47,6 @@
 - [version 0.3.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.2)
 - [version 0.3.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.1)
 - [version 0.3.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.0)
-- [version 0.2.7](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.2.7)
 
 </details>
 
