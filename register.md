@@ -2,9 +2,10 @@
 
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
-### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | [1.0.1](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.0.1)
+### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | [1.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.1.0)
 <details><summary>Releases for zero_ajax_api</summary>
 
+- [version 1.1.0 - add `request` method](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.1.0)
 - [version 1.0.1 - Support RenderableInterface in render](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.0.1)
 - [version 1.0.0 - Update plugin manager](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.0.0)
 - [version 0.2.0 - Add updateQuery function](https://github.com/LoomZero/zero_ajax_api/releases/tag/0.2.0)
@@ -50,9 +51,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.7.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.7.0)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.8.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.8.0)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.8.0 - breaking update `createTemplate`](https://github.com/LoomZero/zero_preprocess/releases/tag/0.8.0)
 - [version 0.7.0 - Add theme builder functions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.7.0)
 - [version 0.6.1 - Attach function can not use the context](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.1)
 - [version 0.6.0 - add js cookies support for components](https://github.com/LoomZero/zero_preprocess/releases/tag/0.6.0)
