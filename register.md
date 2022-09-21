@@ -51,9 +51,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.9.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.0)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.9.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.1)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.9.1 - Update transitions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.1)
 - [version 0.9.0 - transitions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.0)
 - [version 0.8.0 - breaking update `createTemplate`](https://github.com/LoomZero/zero_preprocess/releases/tag/0.8.0)
 - [version 0.7.0 - Add theme builder functions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.7.0)
