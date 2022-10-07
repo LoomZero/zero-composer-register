@@ -2,7 +2,8 @@
   "LoomZero": [
     "zero_ajax_api",
     "zero_entitywrapper",
-    "zero_preprocess"
+    "zero_preprocess",
+    "zero_comps"
   ],
   "loominade": [
     "loominade_styleguide"
