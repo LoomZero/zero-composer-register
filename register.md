@@ -51,9 +51,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.9.2](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.2)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.9.3](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.3)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.9.3 - Update cookie dependency](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.3)
 - [version 0.9.2 - transition with option initTime](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.2)
 - [version 0.9.1 - Update transitions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.1)
 - [version 0.9.0 - transitions](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.0)
