@@ -72,6 +72,13 @@
 
 </details>
 
+### [zero_comps](https://github.com/LoomZero/zero_comps) | [1.0.0](https://github.com/LoomZero/zero_comps/releases/tag/1.0.0)
+<details><summary>Releases for zero_comps</summary>
+
+- [version 1.0.0 - first release comp zero-view](https://github.com/LoomZero/zero_comps/releases/tag/1.0.0)
+
+</details>
+
 
 ## Vendor: [loominade](https://github.com/loominade?tab=repositories)
 
