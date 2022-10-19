@@ -74,9 +74,10 @@
 
 </details>
 
-### [zero_comps](https://github.com/LoomZero/zero_comps) | [1.0.1](https://github.com/LoomZero/zero_comps/releases/tag/1.0.1)
+### [zero_comps](https://github.com/LoomZero/zero_comps) | [1.0.2](https://github.com/LoomZero/zero_comps/releases/tag/1.0.2)
 <details><summary>Releases for zero_comps</summary>
 
+- [version 1.0.2 - fix versions](https://github.com/LoomZero/zero_comps/releases/tag/1.0.2)
 - [version 1.0.1 - update theme builder](https://github.com/LoomZero/zero_comps/releases/tag/1.0.1)
 - [version 1.0.0 - first release comp zero-view](https://github.com/LoomZero/zero_comps/releases/tag/1.0.0)
 
