@@ -51,9 +51,10 @@
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.9.4](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.4)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.10.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.10.0)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.10.0 - remove getKey method && add component feature](https://github.com/LoomZero/zero_preprocess/releases/tag/0.10.0)
 - [version 0.9.4 - load settings only once in components](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.4)
 - [version 0.9.3 - Update cookie dependency](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.3)
 - [version 0.9.2 - transition with option initTime](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.2)
