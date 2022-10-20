@@ -3,7 +3,8 @@
     "zero_ajax_api",
     "zero_entitywrapper",
     "zero_preprocess",
-    "zero_comps"
+    "zero_comps",
+    "zero_util"
   ],
   "loominade": [
     "loominade_styleguide"
