@@ -83,6 +83,13 @@
 
 </details>
 
+### [zero_util](https://github.com/LoomZero/zero_util) | [0.1.0](https://github.com/LoomZero/zero_util/releases/tag/0.1.0)
+<details><summary>Releases for zero_util</summary>
+
+- [version 0.1.0 - initial release](https://github.com/LoomZero/zero_util/releases/tag/0.1.0)
+
+</details>
+
 
 ## Vendor: [loominade](https://github.com/loominade?tab=repositories)
 

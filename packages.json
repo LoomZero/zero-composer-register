@@ -1345,6 +1345,31 @@
         "version": "1.0.0"
       }
     },
+    "loomzero/zero_util": {
+      "0.1.0": {
+        "name": "loomzero/zero_util",
+        "type": "drupal-module",
+        "description": "Provides Logger",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_util",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_util",
+          "source": "http://cgit.drupalcode.org/zero_util"
+        },
+        "require": {
+          "composer/installers": "~1.0"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_util/archive/0.1.0.zip"
+        },
+        "version": "0.1.0"
+      }
+    },
     "loominade/loominade_styleguide": {
       "0.1.1": {
         "name": "loominade/loominade_styleguide",
