@@ -4,7 +4,9 @@
     "zero_entitywrapper",
     "zero_preprocess",
     "zero_comps",
-    "zero_util"
+    "zero_util",
+    "zero_logger",
+    "zero_importer"
   ],
   "loominade": [
     "loominade_styleguide"
