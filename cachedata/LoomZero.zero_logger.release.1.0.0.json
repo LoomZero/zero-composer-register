@@ -1,0 +1,22 @@
+{
+  "hash": "318bab81ca8635b024b6fc42fc3a19c6",
+  "data": {
+    "name": "loomzero/zero_logger",
+    "type": "drupal-module",
+    "description": "Provides Logger",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_logger",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_logger",
+      "source": "http://cgit.drupalcode.org/zero_logger"
+    },
+    "require": {
+      "composer/installers": "~1.0",
+      "monolog/monolog": "^2.8"
+    }
+  }
+}
