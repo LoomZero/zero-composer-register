@@ -2,9 +2,10 @@
 
 ## Vendor: [LoomZero](https://github.com/LoomZero?tab=repositories)
 
-### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | [1.1.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.1.0)
+### [zero_ajax_api](https://github.com/LoomZero/zero_ajax_api) | [1.2.0](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.2.0)
 <details><summary>Releases for zero_ajax_api</summary>
 
+- [version 1.2.0 - Update method `updateQuery` to allow set state](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.2.0)
 - [version 1.1.0 - add `request` method](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.1.0)
 - [version 1.0.1 - Support RenderableInterface in render](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.0.1)
 - [version 1.0.0 - Update plugin manager](https://github.com/LoomZero/zero_ajax_api/releases/tag/1.0.0)
