@@ -36,6 +36,7 @@ module.exports = class Repository {
       const url = new URL('/repos/' + this._vendor + '/' + this._repo + '/releases', 'https://api.github.com/');
       console.log('REQUEST: ' + url);
       const releasesData = JSON.parse(await this.manager.request(url, {headers: {'User-Agent': 'Awesome-Octocat-App'}}));
+      console.log(releasesData);
       this._cache['getReleases-AllData'] = releasesData;
       for (const release of releasesData) {
         releases.push(release.tag_name);
