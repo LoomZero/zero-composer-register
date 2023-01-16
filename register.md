@@ -77,9 +77,10 @@
 
 </details>
 
-### [zero_comps](https://github.com/LoomZero/zero_comps) | [1.0.2](https://github.com/LoomZero/zero_comps/releases/tag/1.0.2)
+### [zero_comps](https://github.com/LoomZero/zero_comps) | [2.0.0](https://github.com/LoomZero/zero_comps/releases/tag/2.0.0)
 <details><summary>Releases for zero_comps</summary>
 
+- [version 2.0.0 - Drupal 10 support](https://github.com/LoomZero/zero_comps/releases/tag/2.0.0)
 - [version 1.0.2 - fix versions](https://github.com/LoomZero/zero_comps/releases/tag/1.0.2)
 - [version 1.0.1 - update theme builder](https://github.com/LoomZero/zero_comps/releases/tag/1.0.1)
 - [version 1.0.0 - first release comp zero-view](https://github.com/LoomZero/zero_comps/releases/tag/1.0.0)

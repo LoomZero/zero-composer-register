@@ -1,0 +1,24 @@
+{
+  "hash": "b20e744fd77748b16a54c11c5890d967",
+  "data": {
+    "name": "loomzero/zero_comps",
+    "type": "drupal-module",
+    "description": "Add zero components",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_comps",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_comps",
+      "source": "http://cgit.drupalcode.org/zero_comps"
+    },
+    "require": {
+      "composer/installers": ">=1.0",
+      "loomzero/zero_preprocess": ">=0.10",
+      "loomzero/zero_entitywrapper": ">=0.13",
+      "loomzero/zero_ajax_api": ">=1.1"
+    }
+  }
+}
