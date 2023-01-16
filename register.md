@@ -16,9 +16,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.13.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.2)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.14.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.14.0 - Drupal 10 support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.0)
 - [version 0.13.2 - update media methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.2)
 - [version 0.13.1 - Update RenderItemWrapper and deprecation log](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.1)
 - [version 0.13.0 - add collection item wrapper functions](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.0)
@@ -48,13 +49,13 @@
 - [version 0.3.4](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.4)
 - [version 0.3.3](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.3)
 - [version 0.3.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.2)
-- [version 0.3.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.1)
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.10.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.10.0)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.11.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.11.0)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.11.0 - Drupal 10 support](https://github.com/LoomZero/zero_preprocess/releases/tag/0.11.0)
 - [version 0.10.0 - remove getKey method && add component feature](https://github.com/LoomZero/zero_preprocess/releases/tag/0.10.0)
 - [version 0.9.4 - load settings only once in components](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.4)
 - [version 0.9.3 - Update cookie dependency](https://github.com/LoomZero/zero_preprocess/releases/tag/0.9.3)

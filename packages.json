@@ -194,6 +194,31 @@
       }
     },
     "loomzero/zero_entitywrapper": {
+      "0.14.0": {
+        "name": "loomzero/zero_entitywrapper",
+        "type": "drupal-module",
+        "description": "Base EntityWrapper module",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
+          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+        },
+        "require": {
+          "composer/installers": ">=1.0",
+          "loomzero/zero_preprocess": ">=0.3",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.14.0.zip"
+        },
+        "version": "0.14.0"
+      },
       "0.13.2": {
         "name": "loomzero/zero_entitywrapper",
         "type": "drupal-module",
@@ -877,30 +902,32 @@
           "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.3.2.zip"
         },
         "version": "0.3.2"
-      },
-      "0.3.1": {
-        "name": "loomzero/zero_entitywrapper",
+      }
+    },
+    "loomzero/zero_preprocess": {
+      "0.11.0": {
+        "name": "loomzero/zero_preprocess",
         "type": "drupal-module",
-        "description": "Base EntityWrapper module",
+        "description": "Add preprocess file loading functionality",
         "keywords": [
           "Drupal"
         ],
         "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+        "homepage": "https://www.drupal.org/project/zero_preprocess",
         "minimum-stability": "dev",
         "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
-          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+          "issues": "https://www.drupal.org/project/issues/zero_preprocess",
+          "source": "http://cgit.drupalcode.org/zero_preprocess"
         },
-        "require": {},
+        "require": {
+          "composer/installers": ">=1.0"
+        },
         "dist": {
           "type": "zip",
-          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.3.1.zip"
+          "url": "https://github.com/LoomZero/zero_preprocess/archive/0.11.0.zip"
         },
-        "version": "0.3.1"
-      }
-    },
-    "loomzero/zero_preprocess": {
+        "version": "0.11.0"
+      },
       "0.10.0": {
         "name": "loomzero/zero_preprocess",
         "type": "drupal-module",
