@@ -87,23 +87,26 @@
 
 </details>
 
-### [zero_util](https://github.com/LoomZero/zero_util) | [0.1.0](https://github.com/LoomZero/zero_util/releases/tag/0.1.0)
+### [zero_util](https://github.com/LoomZero/zero_util) | [1.0.0](https://github.com/LoomZero/zero_util/releases/tag/1.0.0)
 <details><summary>Releases for zero_util</summary>
 
+- [version 1.0.0](https://github.com/LoomZero/zero_util/releases/tag/1.0.0)
 - [version 0.1.0 - initial release](https://github.com/LoomZero/zero_util/releases/tag/0.1.0)
 
 </details>
 
-### [zero_logger](https://github.com/LoomZero/zero_logger) | [1.0.0](https://github.com/LoomZero/zero_logger/releases/tag/1.0.0)
+### [zero_logger](https://github.com/LoomZero/zero_logger) | [1.0.1](https://github.com/LoomZero/zero_logger/releases/tag/1.0.1)
 <details><summary>Releases for zero_logger</summary>
 
+- [version 1.0.1](https://github.com/LoomZero/zero_logger/releases/tag/1.0.1)
 - [version 1.0.0 - First release](https://github.com/LoomZero/zero_logger/releases/tag/1.0.0)
 
 </details>
 
-### [zero_importer](https://github.com/LoomZero/zero_importer) | [1.0.0](https://github.com/LoomZero/zero_importer/releases/tag/1.0.0)
+### [zero_importer](https://github.com/LoomZero/zero_importer) | [1.0.1](https://github.com/LoomZero/zero_importer/releases/tag/1.0.1)
 <details><summary>Releases for zero_importer</summary>
 
+- [version 1.0.1](https://github.com/LoomZero/zero_importer/releases/tag/1.0.1)
 - [version 1.0.0 - First release](https://github.com/LoomZero/zero_importer/releases/tag/1.0.0)
 
 </details>
