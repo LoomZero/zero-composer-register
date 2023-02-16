@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.15.1 - add more deprecation messages and update config form](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.1)
 - [version 0.15.0 - add ViewWrapper Url and Link method](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.0)
 - [version 0.14.1 - change wrapper attribute key to element](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.1)
 - [version 0.14.0 - Drupal 10 support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.0)
@@ -49,7 +50,6 @@
 - [version 0.5.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.5.0)
 - [version 0.4.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.4.0)
 - [version 0.3.5](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.5)
-- [version 0.3.4](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.3.4)
 
 </details>
 
