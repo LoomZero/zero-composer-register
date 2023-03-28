@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.5](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.6](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
 - [version 0.15.5 - fix last patch](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
 - [version 0.15.4 - Performance Patch for multiple Entity Load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.4)
 - [version 0.15.3 - patch js for settings.js](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.3)
@@ -49,7 +50,6 @@
 - [version 0.9.1 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.1)
 - [version 0.9.0 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.0)
 - [version 0.8.0 - Advanced access handling and config](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.8.0)
-- [version 0.7.0 - add Author handling](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.7.0)
 
 </details>
 
