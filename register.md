@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.6](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.15.7](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.7)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.15.7 - add auto include support for block_content (Layoutbuilder)](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.7)
 - [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
 - [version 0.15.5 - fix last patch](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
 - [version 0.15.4 - Performance Patch for multiple Entity Load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.4)
@@ -49,7 +50,6 @@
 - [version 0.9.2 - PHP version and Documentation](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.2)
 - [version 0.9.1 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.1)
 - [version 0.9.0 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.0)
-- [version 0.8.0 - Advanced access handling and config](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.8.0)
 
 </details>
 
