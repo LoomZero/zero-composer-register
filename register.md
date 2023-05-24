@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.16.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.16.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.16.1 - getLink method use the label of an entity](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.1)
 - [version 0.16.0 - add method to render items as elements](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.0)
 - [version 0.15.7 - add auto include support for block_content (Layoutbuilder)](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.7)
 - [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
@@ -49,7 +50,6 @@
 - [version 0.9.4 - set language support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.4)
 - [version 0.9.3 - Support LinkAttributes](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.3)
 - [version 0.9.2 - PHP version and Documentation](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.2)
-- [version 0.9.1 - RC version 1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.1)
 
 </details>
 
@@ -77,9 +77,10 @@
 
 </details>
 
-### [zero_comps](https://github.com/LoomZero/zero_comps) | [2.0.0](https://github.com/LoomZero/zero_comps/releases/tag/2.0.0)
+### [zero_comps](https://github.com/LoomZero/zero_comps) | [2.0.1](https://github.com/LoomZero/zero_comps/releases/tag/2.0.1)
 <details><summary>Releases for zero_comps</summary>
 
+- [version 2.0.1 - init update of filters](https://github.com/LoomZero/zero_comps/releases/tag/2.0.1)
 - [version 2.0.0 - Drupal 10 support](https://github.com/LoomZero/zero_comps/releases/tag/2.0.0)
 - [version 1.0.2 - fix versions](https://github.com/LoomZero/zero_comps/releases/tag/1.0.2)
 - [version 1.0.1 - update theme builder](https://github.com/LoomZero/zero_comps/releases/tag/1.0.1)
