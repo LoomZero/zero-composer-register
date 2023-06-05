@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.17.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.1)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.17.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.2)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.17.2 - preview fix for multiple paragraphs load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.2)
 - [version 0.17.1 - more support for empty collection and more](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.1)
 - [version 0.17.0 - add support for view show all and always array return](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.0)
 - [version 0.16.1 - getLink method use the label of an entity](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.1)
@@ -49,7 +50,6 @@
 - [version 0.10.0 - return type self & methods doc & language ViewWrapper support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.10.0)
 - [version 0.9.6 - language rework](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.6)
 - [version 0.9.5 - language support for BaseWrapper and ->render()](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.5)
-- [version 0.9.4 - set language support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.4)
 
 </details>
 
