@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.18.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.18.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.18.1 - add extractLinkData](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.1)
 - [version 0.18.0 - Add sort input](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.0)
 - [version 0.17.2 - preview fix for multiple paragraphs load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.2)
 - [version 0.17.1 - more support for empty collection and more](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.17.1)
@@ -49,7 +50,6 @@
 - [version 0.11.1 - patch ignore access for entity and author](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.1)
 - [version 0.11.0 - ViewWrapper include by views-view template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.0)
 - [version 0.10.0 - return type self & methods doc & language ViewWrapper support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.10.0)
-- [version 0.9.6 - language rework](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.9.6)
 
 </details>
 
