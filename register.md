@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.18.2](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.2)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.19.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.19.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.19.0 - fix field template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.19.0)
 - [version 0.18.2 - fix array methods from collections](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.2)
 - [version 0.18.1 - add extractLinkData](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.1)
 - [version 0.18.0 - Add sort input](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.18.0)
@@ -49,7 +50,6 @@
 - [version 0.11.3 - Update ViewWrapper include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.3)
 - [version 0.11.2 - ViewWrapper parameter $display bug](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.2)
 - [version 0.11.1 - patch ignore access for entity and author](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.1)
-- [version 0.11.0 - ViewWrapper include by views-view template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.0)
 
 </details>
 
