@@ -1663,6 +1663,32 @@
         "version": "1.0.0"
       }
     },
+    "loomzero/zero_config": {
+      "1.0.0": {
+        "name": "loomzero/zero_config",
+        "type": "drupal-module",
+        "description": "Simple Config Page with Plugin",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_config",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_config",
+          "source": "http://cgit.drupalcode.org/zero_config"
+        },
+        "require": {
+          "composer/installers": ">=1.0",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_config/archive/1.0.0.zip"
+        },
+        "version": "1.0.0"
+      }
+    },
     "loominade/loominade_styleguide": {
       "0.1.1": {
         "name": "loominade/loominade_styleguide",

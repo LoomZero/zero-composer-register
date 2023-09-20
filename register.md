@@ -112,6 +112,13 @@
 
 </details>
 
+### [zero_config](https://github.com/LoomZero/zero_config) | [1.0.0](https://github.com/LoomZero/zero_config/releases/tag/1.0.0)
+<details><summary>Releases for zero_config</summary>
+
+- [version 1.0.0 - First release](https://github.com/LoomZero/zero_config/releases/tag/1.0.0)
+
+</details>
+
 
 ## Vendor: [loominade](https://github.com/loominade?tab=repositories)
 
