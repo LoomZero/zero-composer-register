@@ -218,6 +218,31 @@
       }
     },
     "loomzero/zero_entitywrapper": {
+      "0.21.0": {
+        "name": "loomzero/zero_entitywrapper",
+        "type": "drupal-module",
+        "description": "Base EntityWrapper module",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
+          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+        },
+        "require": {
+          "composer/installers": ">=1.0",
+          "loomzero/zero_preprocess": ">=0.3",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.21.0.zip"
+        },
+        "version": "0.21.0"
+      },
       "0.20.1": {
         "name": "loomzero/zero_entitywrapper",
         "type": "drupal-module",
@@ -942,31 +967,6 @@
           "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.11.4.zip"
         },
         "version": "0.11.4"
-      },
-      "0.11.3": {
-        "name": "loomzero/zero_entitywrapper",
-        "type": "drupal-module",
-        "description": "Base EntityWrapper module",
-        "keywords": [
-          "Drupal"
-        ],
-        "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
-        "minimum-stability": "dev",
-        "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
-          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
-        },
-        "require": {
-          "composer/installers": "~1.0",
-          "loomzero/zero_preprocess": "~0.3",
-          "php": ">=7.4"
-        },
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.11.3.zip"
-        },
-        "version": "0.11.3"
       }
     },
     "loomzero/zero_preprocess": {

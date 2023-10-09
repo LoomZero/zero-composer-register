@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.20.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.20.1)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.21.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.21.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.21.0 - add getUrl() support for file entity and D10 fix](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.21.0)
 - [version 0.20.1 - add exception if no entity is loaded](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.20.1)
 - [version 0.20.0 - Add ignore symbols to date range merged](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.20.0)
 - [version 0.19.0 - fix field template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.19.0)
@@ -49,7 +50,6 @@
 - [version 0.11.6 - ViewWrapper::getResultMeta() division by zero](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.6)
 - [version 0.11.5 - Fix undefined $wrapper in auto include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.5)
 - [version 0.11.4 - Auto extends trigger error when no extends preprocess](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.4)
-- [version 0.11.3 - Update ViewWrapper include](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.3)
 
 </details>
 
