@@ -1,0 +1,22 @@
+{
+  "hash": "9ed8c01581d27f0857926fcdb9364d95",
+  "data": {
+    "name": "loomzero/zero_cache",
+    "type": "drupal-module",
+    "description": "Simple Cache control",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_cache",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_cache",
+      "source": "http://cgit.drupalcode.org/zero_cache"
+    },
+    "require": {
+      "composer/installers": ">=1.0",
+      "php": ">=7.4"
+    }
+  }
+}
