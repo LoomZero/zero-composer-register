@@ -7,7 +7,8 @@
     "zero_util",
     "zero_logger",
     "zero_importer",
-    "zero_config"
+    "zero_config",
+    "zero_cache"
   ],
   "loominade": [
     "loominade_styleguide"
