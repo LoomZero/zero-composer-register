@@ -1762,6 +1762,30 @@
       }
     },
     "loomzero/zero_cache": {
+      "1.1.0": {
+        "name": "loomzero/zero_cache",
+        "type": "drupal-module",
+        "description": "Simple Cache control",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_cache",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_cache",
+          "source": "http://cgit.drupalcode.org/zero_cache"
+        },
+        "require": {
+          "composer/installers": ">=1.0",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_cache/archive/1.1.0.zip"
+        },
+        "version": "1.1.0"
+      },
       "1.0.0": {
         "name": "loomzero/zero_cache",
         "type": "drupal-module",

@@ -122,9 +122,10 @@
 
 </details>
 
-### [zero_cache](https://github.com/LoomZero/zero_cache) | [1.0.0](https://github.com/LoomZero/zero_cache/releases/tag/1.0.0)
+### [zero_cache](https://github.com/LoomZero/zero_cache) | [1.1.0](https://github.com/LoomZero/zero_cache/releases/tag/1.1.0)
 <details><summary>Releases for zero_cache</summary>
 
+- [version 1.1.0 - fix cache apply to add after preprocess](https://github.com/LoomZero/zero_cache/releases/tag/1.1.0)
 - [version 1.0.0 - First release](https://github.com/LoomZero/zero_cache/releases/tag/1.0.0)
 
 </details>
