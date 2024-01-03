@@ -131,6 +131,13 @@
 
 </details>
 
+### [zero_calendar](https://github.com/LoomZero/zero_calendar) | [1.0.0](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.0)
+<details><summary>Releases for zero_calendar</summary>
+
+- [version 1.0.0](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.0)
+
+</details>
+
 
 ## Vendor: [loominade](https://github.com/loominade?tab=repositories)
 
