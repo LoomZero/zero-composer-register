@@ -8,7 +8,8 @@
     "zero_logger",
     "zero_importer",
     "zero_config",
-    "zero_cache"
+    "zero_cache",
+    "zero_calendar"
   ],
   "loominade": [
     "loominade_styleguide"
