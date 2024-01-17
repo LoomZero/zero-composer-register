@@ -133,9 +133,10 @@
 
 </details>
 
-### [zero_calendar](https://github.com/LoomZero/zero_calendar) | [1.0.1](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.1)
+### [zero_calendar](https://github.com/LoomZero/zero_calendar) | [1.0.2](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.2)
 <details><summary>Releases for zero_calendar</summary>
 
+- [version 1.0.2 - patch wrong value used for `repeat`](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.2)
 - [version 1.0.1 - Fix wrong parameter repeat](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.1)
 - [version 1.0.0](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.0)
 
