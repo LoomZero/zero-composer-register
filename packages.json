@@ -1881,6 +1881,31 @@
       }
     },
     "loomzero/zero_calendar": {
+      "1.0.3": {
+        "name": "loomzero/zero_calendar",
+        "type": "drupal-module",
+        "description": "Zero Calendar",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_calendar",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_calendar",
+          "source": "http://cgit.drupalcode.org/zero_calendar"
+        },
+        "require": {
+          "composer/installers": ">=1.0",
+          "spatie/icalendar-generator": "^2.5",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_calendar/archive/1.0.3.zip"
+        },
+        "version": "1.0.3"
+      },
       "1.0.2": {
         "name": "loomzero/zero_calendar",
         "type": "drupal-module",
