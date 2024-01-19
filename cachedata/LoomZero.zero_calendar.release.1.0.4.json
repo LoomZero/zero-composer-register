@@ -1,0 +1,23 @@
+{
+  "hash": "4adda88af2a9eb790e9effc5e7311bd8",
+  "data": {
+    "name": "loomzero/zero_calendar",
+    "type": "drupal-module",
+    "description": "Zero Calendar",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_calendar",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_calendar",
+      "source": "http://cgit.drupalcode.org/zero_calendar"
+    },
+    "require": {
+      "composer/installers": ">=1.0",
+      "spatie/icalendar-generator": "^2.5",
+      "php": ">=7.4"
+    }
+  }
+}
