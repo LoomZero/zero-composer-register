@@ -106,9 +106,10 @@
 
 </details>
 
-### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.0.0](https://github.com/LoomZero/zero_importer/releases/tag/2.0.0)
+### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.0.1](https://github.com/LoomZero/zero_importer/releases/tag/2.0.1)
 <details><summary>Releases for zero_importer</summary>
 
+- [version 2.0.1 - update for flexim](https://github.com/LoomZero/zero_importer/releases/tag/2.0.1)
 - [version 2.0.0](https://github.com/LoomZero/zero_importer/releases/tag/2.0.0)
 - [version 1.0.1](https://github.com/LoomZero/zero_importer/releases/tag/1.0.1)
 - [version 1.0.0 - First release](https://github.com/LoomZero/zero_importer/releases/tag/1.0.0)
