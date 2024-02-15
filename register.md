@@ -106,9 +106,10 @@
 
 </details>
 
-### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.0.7](https://github.com/LoomZero/zero_importer/releases/tag/2.0.7)
+### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.0.8](https://github.com/LoomZero/zero_importer/releases/tag/2.0.8)
 <details><summary>Releases for zero_importer</summary>
 
+- [version 2.0.8](https://github.com/LoomZero/zero_importer/releases/tag/2.0.8)
 - [version 2.0.7](https://github.com/LoomZero/zero_importer/releases/tag/2.0.7)
 - [version 2.0.6](https://github.com/LoomZero/zero_importer/releases/tag/2.0.6)
 - [version 2.0.5](https://github.com/LoomZero/zero_importer/releases/tag/2.0.5)

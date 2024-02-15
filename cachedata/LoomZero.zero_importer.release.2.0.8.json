@@ -1,0 +1,21 @@
+{
+  "hash": "e02b66a983d09fb9755b386aca5c581f",
+  "data": {
+    "name": "loomzero/zero_importer",
+    "type": "drupal-module",
+    "description": "Importer Module",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_importer",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_importer",
+      "source": "http://cgit.drupalcode.org/zero_importer"
+    },
+    "require": {
+      "composer/installers": ">=1.0"
+    }
+  }
+}
