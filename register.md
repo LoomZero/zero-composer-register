@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.22.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.22.1)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.23.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.23.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.23.0 - add method map](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.23.0)
 - [version 0.22.1 - add view title metods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.22.1)
 - [version 0.22.0 - Drupal 10 Support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.22.0)
 - [version 0.21.0 - add getUrl() support for file entity and D10 fix](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.21.0)
@@ -49,7 +50,6 @@
 - [version 0.13.0 - add collection item wrapper functions](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.0)
 - [version 0.12.1 - Allow empty fields for media & medias](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.1)
 - [version 0.12.0 - Add intern media template](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.12.0)
-- [version 0.11.6 - ViewWrapper::getResultMeta() division by zero](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.11.6)
 
 </details>
 
