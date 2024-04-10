@@ -143,9 +143,10 @@
 
 </details>
 
-### [zero_calendar](https://github.com/LoomZero/zero_calendar) | [1.0.4](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.4)
+### [zero_calendar](https://github.com/LoomZero/zero_calendar) | [1.1.0](https://github.com/LoomZero/zero_calendar/releases/tag/1.1.0)
 <details><summary>Releases for zero_calendar</summary>
 
+- [version 1.1.0 - Add support for duration and event end](https://github.com/LoomZero/zero_calendar/releases/tag/1.1.0)
 - [version 1.0.4 - Fix filename parameter](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.4)
 - [version 1.0.3 - Add filename change](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.3)
 - [version 1.0.2 - patch wrong value used for `repeat`](https://github.com/LoomZero/zero_calendar/releases/tag/1.0.2)
