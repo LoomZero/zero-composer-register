@@ -1662,6 +1662,29 @@
       }
     },
     "loomzero/zero_importer": {
+      "2.0.10": {
+        "name": "loomzero/zero_importer",
+        "type": "drupal-module",
+        "description": "Importer Module",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_importer",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_importer",
+          "source": "http://cgit.drupalcode.org/zero_importer"
+        },
+        "require": {
+          "composer/installers": ">=1.0"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_importer/archive/2.0.10.zip"
+        },
+        "version": "2.0.10"
+      },
       "1.0.2": {
         "name": "loomzero/zero_importer",
         "type": "drupal-module",
