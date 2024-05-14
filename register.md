@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.25.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.25.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.25.1 - remove createDuplicate](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.1)
 - [0.25.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.0)
 - [version 0.24.0 - Add support methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.24.0)
 - [version 0.23.0 - add method map](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.23.0)
@@ -49,7 +50,6 @@
 - [version 0.14.0 - Drupal 10 support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.0)
 - [version 0.13.2 - update media methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.2)
 - [version 0.13.1 - Update RenderItemWrapper and deprecation log](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.1)
-- [version 0.13.0 - add collection item wrapper functions](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.0)
 
 </details>
 
