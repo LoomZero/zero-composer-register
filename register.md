@@ -106,9 +106,10 @@
 
 </details>
 
-### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.1.0](https://github.com/LoomZero/zero_importer/releases/tag/2.1.0)
+### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.2.0](https://github.com/LoomZero/zero_importer/releases/tag/2.2.0)
 <details><summary>Releases for zero_importer</summary>
 
+- [version 2.2.0 - add support for set menu](https://github.com/LoomZero/zero_importer/releases/tag/2.2.0)
 - [2.1.0](https://github.com/LoomZero/zero_importer/releases/tag/2.1.0)
 - [version 2.0.10](https://github.com/LoomZero/zero_importer/releases/tag/2.0.10)
 - [version 1.0.2](https://github.com/LoomZero/zero_importer/releases/tag/1.0.2)
