@@ -106,9 +106,10 @@
 
 </details>
 
-### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.2.2](https://github.com/LoomZero/zero_importer/releases/tag/2.2.2)
+### [zero_importer](https://github.com/LoomZero/zero_importer) | [2.2.3](https://github.com/LoomZero/zero_importer/releases/tag/2.2.3)
 <details><summary>Releases for zero_importer</summary>
 
+- [2.2.3 - fix find definition in child execution](https://github.com/LoomZero/zero_importer/releases/tag/2.2.3)
 - [2.2.2](https://github.com/LoomZero/zero_importer/releases/tag/2.2.2)
 - [2.2.1](https://github.com/LoomZero/zero_importer/releases/tag/2.2.1)
 - [version 2.2.0 - add support for set menu](https://github.com/LoomZero/zero_importer/releases/tag/2.2.0)
