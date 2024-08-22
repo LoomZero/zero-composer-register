@@ -17,9 +17,11 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.25.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.1)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.26.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.26.1)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.26.1 - Patch host feature](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.26.1)
+- [version 0.26.0 - Add host methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.26.0)
 - [version 0.25.1 - remove createDuplicate](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.1)
 - [0.25.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.25.0)
 - [version 0.24.0 - Add support methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.24.0)
@@ -48,8 +50,6 @@
 - [version 0.15.0 - add ViewWrapper Url and Link method](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.0)
 - [version 0.14.1 - change wrapper attribute key to element](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.1)
 - [version 0.14.0 - Drupal 10 support](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.14.0)
-- [version 0.13.2 - update media methods](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.2)
-- [version 0.13.1 - Update RenderItemWrapper and deprecation log](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.13.1)
 
 </details>
 
