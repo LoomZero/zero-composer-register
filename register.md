@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.28.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.28.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.29.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [0.29.0 - Add module zero_wrapper_generator](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.0)
 - [0.28.0 - add method loadFirstByProperties](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.28.0)
 - [version 0.27.1 - getRaw return NULL if no property](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.27.1)
 - [version 0.27.0 - Fix name inconsistencies](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.27.0)
@@ -49,7 +50,6 @@
 - [version 0.15.4 - Performance Patch for multiple Entity Load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.4)
 - [version 0.15.3 - patch js for settings.js](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.3)
 - [version 0.15.2 - added config method and remove jquery](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.2)
-- [version 0.15.1 - add more deprecation messages and update config form](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.1)
 
 </details>
 
