@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.29.1](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.1)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.30.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.30.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.30.0 - fix directory of submodules](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.30.0)
 - [0.29.1 - Check view mode optional parameter](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.1)
 - [0.29.0 - Add module zero_wrapper_generator](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.0)
 - [0.28.0 - add method loadFirstByProperties](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.28.0)
@@ -49,7 +50,6 @@
 - [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
 - [version 0.15.5 - fix last patch](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
 - [version 0.15.4 - Performance Patch for multiple Entity Load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.4)
-- [version 0.15.3 - patch js for settings.js](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.3)
 
 </details>
 
