@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.30.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.30.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.31.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.31.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.31.0 - remove dependency](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.31.0)
 - [version 0.30.0 - fix directory of submodules](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.30.0)
 - [0.29.1 - Check view mode optional parameter](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.1)
 - [0.29.0 - Add module zero_wrapper_generator](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.0)
@@ -49,13 +50,13 @@
 - [version 0.15.7 - add auto include support for block_content (Layoutbuilder)](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.7)
 - [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
 - [version 0.15.5 - fix last patch](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
-- [version 0.15.4 - Performance Patch for multiple Entity Load](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.4)
 
 </details>
 
-### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.11.1](https://github.com/LoomZero/zero_preprocess/releases/tag/0.11.1)
+### [zero_preprocess](https://github.com/LoomZero/zero_preprocess) | [0.12.0](https://github.com/LoomZero/zero_preprocess/releases/tag/0.12.0)
 <details><summary>Releases for zero_preprocess</summary>
 
+- [version 0.12.0 - remove dependency](https://github.com/LoomZero/zero_preprocess/releases/tag/0.12.0)
 - [version 0.11.1 - add find method](https://github.com/LoomZero/zero_preprocess/releases/tag/0.11.1)
 - [version 0.11.0 - Drupal 10 support](https://github.com/LoomZero/zero_preprocess/releases/tag/0.11.0)
 - [version 0.10.0 - remove getKey method && add component feature](https://github.com/LoomZero/zero_preprocess/releases/tag/0.10.0)

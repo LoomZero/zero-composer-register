@@ -1,5 +1,5 @@
 {
-  "hash": "bf3b33fed88fcab4fdead8208a1f5c7e",
+  "hash": "43a6b1cea0a16fcd40c8f2e88d1a0ff2",
   "data": {
     "name": "loomzero/zero_entitywrapper",
     "type": "drupal-module",
@@ -15,7 +15,6 @@
       "source": "http://cgit.drupalcode.org/zero_entitywrapper"
     },
     "require": {
-      "composer/installers": ">=1.0",
       "loomzero/zero_preprocess": ">=0.3",
       "php": ">=7.4"
     }

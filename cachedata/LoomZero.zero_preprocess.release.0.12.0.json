@@ -1,5 +1,5 @@
 {
-  "hash": "fabce5a4d1511c2dd1b61cfce518b9c5",
+  "hash": "5c28f9cb3b7c3e1abb778b6a75601008",
   "data": {
     "name": "loomzero/zero_preprocess",
     "type": "drupal-module",
@@ -13,9 +13,6 @@
     "support": {
       "issues": "https://www.drupal.org/project/issues/zero_preprocess",
       "source": "http://cgit.drupalcode.org/zero_preprocess"
-    },
-    "require": {
-      "composer/installers": "~1.0"
     }
   }
 }
