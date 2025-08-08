@@ -17,9 +17,10 @@
 
 </details>
 
-### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.31.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.31.0)
+### [zero_entitywrapper](https://github.com/LoomZero/zero_entitywrapper) | [0.32.0](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.32.0)
 <details><summary>Releases for zero_entitywrapper</summary>
 
+- [version 0.32.0 - add getFileExtension and fix some implicitly nullable parameters](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.32.0)
 - [version 0.31.0 - remove dependency](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.31.0)
 - [version 0.30.0 - fix directory of submodules](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.30.0)
 - [0.29.1 - Check view mode optional parameter](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.29.1)
@@ -49,7 +50,6 @@
 - [version 0.16.0 - add method to render items as elements](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.16.0)
 - [version 0.15.7 - add auto include support for block_content (Layoutbuilder)](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.7)
 - [version 0.15.6 - fix patch again](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.6)
-- [version 0.15.5 - fix last patch](https://github.com/LoomZero/zero_entitywrapper/releases/tag/0.15.5)
 
 </details>
 

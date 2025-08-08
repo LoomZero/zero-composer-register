@@ -218,6 +218,30 @@
       }
     },
     "loomzero/zero_entitywrapper": {
+      "0.32.0": {
+        "name": "loomzero/zero_entitywrapper",
+        "type": "drupal-module",
+        "description": "Base EntityWrapper module",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
+          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
+        },
+        "require": {
+          "loomzero/zero_preprocess": ">=0.3",
+          "php": ">=7.4"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.32.0.zip"
+        },
+        "version": "0.32.0"
+      },
       "0.31.0": {
         "name": "loomzero/zero_entitywrapper",
         "type": "drupal-module",
@@ -941,31 +965,6 @@
           "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.15.6.zip"
         },
         "version": "0.15.6"
-      },
-      "0.15.5": {
-        "name": "loomzero/zero_entitywrapper",
-        "type": "drupal-module",
-        "description": "Base EntityWrapper module",
-        "keywords": [
-          "Drupal"
-        ],
-        "license": "GPL-2.0+",
-        "homepage": "https://www.drupal.org/project/zero_entitywrapper",
-        "minimum-stability": "dev",
-        "support": {
-          "issues": "https://www.drupal.org/project/issues/zero_entitywrapper",
-          "source": "http://cgit.drupalcode.org/zero_entitywrapper"
-        },
-        "require": {
-          "composer/installers": ">=1.0",
-          "loomzero/zero_preprocess": ">=0.3",
-          "php": ">=7.4"
-        },
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/LoomZero/zero_entitywrapper/archive/0.15.5.zip"
-        },
-        "version": "0.15.5"
       }
     },
     "loomzero/zero_preprocess": {
