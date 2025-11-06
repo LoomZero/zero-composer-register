@@ -967,6 +967,26 @@
       }
     },
     "loomzero/zero_preprocess": {
+      "0.12.1": {
+        "name": "loomzero/zero_preprocess",
+        "type": "drupal-module",
+        "description": "Add preprocess file loading functionality",
+        "keywords": [
+          "Drupal"
+        ],
+        "license": "GPL-2.0+",
+        "homepage": "https://www.drupal.org/project/zero_preprocess",
+        "minimum-stability": "dev",
+        "support": {
+          "issues": "https://www.drupal.org/project/issues/zero_preprocess",
+          "source": "http://cgit.drupalcode.org/zero_preprocess"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/LoomZero/zero_preprocess/archive/0.12.1.zip"
+        },
+        "version": "0.12.1"
+      },
       "0.12.0": {
         "name": "loomzero/zero_preprocess",
         "type": "drupal-module",
