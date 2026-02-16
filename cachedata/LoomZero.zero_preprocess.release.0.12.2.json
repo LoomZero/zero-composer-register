@@ -1,0 +1,18 @@
+{
+  "hash": "c3e6fad49722c0497eb5c4dfbd5590f2",
+  "data": {
+    "name": "loomzero/zero_preprocess",
+    "type": "drupal-module",
+    "description": "Add preprocess file loading functionality",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_preprocess",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_preprocess",
+      "source": "http://cgit.drupalcode.org/zero_preprocess"
+    }
+  }
+}
