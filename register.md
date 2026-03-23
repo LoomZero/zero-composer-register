@@ -135,9 +135,10 @@
 
 </details>
 
-### [zero_config](https://github.com/LoomZero/zero_config) | [2.0.0](https://github.com/LoomZero/zero_config/releases/tag/2.0.0)
+### [zero_config](https://github.com/LoomZero/zero_config) | [2.0.1](https://github.com/LoomZero/zero_config/releases/tag/2.0.1)
 <details><summary>Releases for zero_config</summary>
 
+- [Update core dependency](https://github.com/LoomZero/zero_config/releases/tag/2.0.1)
 - [version 2.0.0 - Cache Control](https://github.com/LoomZero/zero_config/releases/tag/2.0.0)
 - [version 1.0.2 - fix managed files ](https://github.com/LoomZero/zero_config/releases/tag/1.0.2)
 - [version 1.0.1 - Support managed_file](https://github.com/LoomZero/zero_config/releases/tag/1.0.1)
@@ -145,9 +146,10 @@
 
 </details>
 
-### [zero_cache](https://github.com/LoomZero/zero_cache) | [1.1.0](https://github.com/LoomZero/zero_cache/releases/tag/1.1.0)
+### [zero_cache](https://github.com/LoomZero/zero_cache) | [1.1.1](https://github.com/LoomZero/zero_cache/releases/tag/1.1.1)
 <details><summary>Releases for zero_cache</summary>
 
+- [Update core dependency](https://github.com/LoomZero/zero_cache/releases/tag/1.1.1)
 - [version 1.1.0 - fix cache apply to add after preprocess](https://github.com/LoomZero/zero_cache/releases/tag/1.1.0)
 - [version 1.0.0 - First release](https://github.com/LoomZero/zero_cache/releases/tag/1.0.0)
 

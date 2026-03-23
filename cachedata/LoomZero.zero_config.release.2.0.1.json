@@ -1,0 +1,22 @@
+{
+  "hash": "27945f7daed885ef583c343ee789904d",
+  "data": {
+    "name": "loomzero/zero_config",
+    "type": "drupal-module",
+    "description": "Simple Config Page with Plugin",
+    "keywords": [
+      "Drupal"
+    ],
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/zero_config",
+    "minimum-stability": "dev",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/zero_config",
+      "source": "http://cgit.drupalcode.org/zero_config"
+    },
+    "require": {
+      "composer/installers": ">=1.0",
+      "php": ">=7.4"
+    }
+  }
+}
